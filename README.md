@@ -1,4 +1,4 @@
-# this repository contains random projects and codes i do for uni or other stuff.
+### this repository contains the main algorithms taught in the course of Principles of Algorithm designm
 
 print("Hello world!")
 
